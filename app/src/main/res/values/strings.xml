@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="account">Tài Khoản</string>
+    <string name="history">Lịch sử</string>
+    <string name="stats">Thống kê</string>
+    <string name="accountManager">Quản lý tài khoản</string>
+</resources>
